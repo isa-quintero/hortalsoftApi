@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hortalsoft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hortalsoft.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
